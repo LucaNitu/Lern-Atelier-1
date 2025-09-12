@@ -1,7 +1,7 @@
 # Lern-Periode 1
 Name: Luca Nitu Matteo
  
-22.08.2025 bis 22.09.2024
+22.08.2025 bis 22.09.2025
  
 ## Grob-Planung
 ### Noten
