@@ -5,20 +5,20 @@ Name: Luca Nitu Matteo
  
 ## Grob-Planung
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+### Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Ich habe noch keine Noten erhalten, aber ich werde mein bestes geben, um Gute Noten zu bekommen.
  
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Erste Lern-Periode, ist nicht möglich zu verändern.
+### Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+### Erste Lern-Periode, ist nicht möglich zu verändern.
 
 ### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+### Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 Ich möchte C# selbstständig verwenden können, ohne Hilfe oder Hilfsmittel und wenn ich kann, wäre es auch schön, wenn ich selber ein Programm schreiben könnte.
 Ich möchte auch lernen, was PapDesigner ist, was es tut und, wie man es benutzt.
 
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+### Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Ich möchte die beide 319 und 431 Module vor den Herbstferien abschliessen oder, wenn ich es nicht schaffe, mindestens der geplante Ablauf der Module folgen.
 Ich möchte auch fähig sein, frei programmieren zu können, ohne Zusätzliche Hilfsmittel.
 Natürlich möchte ich auch den Stoff der Module so gut lernen, dass ich alles erklären kann, falls mich jemand danach fragt.
