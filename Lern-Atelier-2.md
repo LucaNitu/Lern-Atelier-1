@@ -43,7 +43,9 @@ werde ich beim nächsten Mal fortsetzen.
 
 ## Reflexion
 
-
+Heute finde ich, dass ich viel besser, als die anderen Male, gearbeitet habe. Ich habe die Updates ziemlich einfach durchgeführt, der einzige Nachteil ist es,
+dass es einige Minuten gedauert hat, um sie herunterzuladen und zu installieren. Dann habe ich auch das Programm erstellt, aber, wie erwartet, konnte ich es noch
+nicht fertigstellen. Ich habe es trotzdem geschafft, den grössten Teil des Codes zu schreiben.
 
   ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
