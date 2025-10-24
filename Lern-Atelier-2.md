@@ -36,10 +36,10 @@ werde ich beim nächsten Mal fortsetzen.
 
 ## Planung 24.10.2024
 
--[x] Heute möchte ich die Updates am PC durchführen und prüfen, ob alle Schulsoftware auf dem neuesten Stand ist, insbesondere die System-Updates und die von SEB.
--[x] Heute möchte ich ein Programm erstellen, basierend auf dem, was ich gelernt habe, aber auch mit neuen Funktionen und Anweisungen.
+- [x] Heute möchte ich die Updates am PC durchführen und prüfen, ob alle Schulsoftware auf dem neuesten Stand ist, insbesondere die System-Updates und die von SEB.
+- [x] Heute möchte ich ein Programm erstellen, basierend auf dem, was ich gelernt habe, aber auch mit neuen Funktionen und Anweisungen.
     Ich erwarte nicht, es heute fertigzustellen, aber ich denke, ich werde gute Fortschritte machen.
--[ ] Heute möchte ich eine allgemeine Wiederholung der Module M431 und M319 machen.
+- [ ] Heute möchte ich eine allgemeine Wiederholung der Module M431 und M319 machen.
 
 ## Reflexion
 
