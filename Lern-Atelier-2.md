@@ -35,17 +35,26 @@ werde ich beim nächsten Mal fortsetzen.
 
 
 ## Planung 24.10.2024
-
 - [x] Heute möchte ich die Updates am PC durchführen und prüfen, ob alle Schulsoftware auf dem neuesten Stand ist, insbesondere die System-Updates und die von SEB.
 - [x] Heute möchte ich ein Programm erstellen, basierend auf dem, was ich gelernt habe, aber auch mit neuen Funktionen und Anweisungen.
     Ich erwarte nicht, es heute fertigzustellen, aber ich denke, ich werde gute Fortschritte machen.
 - [ ] Heute möchte ich eine allgemeine Wiederholung der Module M431 und M319 machen.
 
 ## Reflexion
-
 Heute finde ich, dass ich viel besser, als die anderen Male, gearbeitet habe. Ich habe die Updates ziemlich einfach durchgeführt, der einzige Nachteil ist es,
 dass es einige Minuten gedauert hat, um sie herunterzuladen und zu installieren. Dann habe ich auch das Programm erstellt, aber, wie erwartet, konnte ich es noch
 nicht fertigstellen. Ich habe es trotzdem geschafft, den grössten Teil des Codes zu schreiben.
+
+## Planung 31.10.2024
+- [x] Heute möchte ich mich die Projektplanung, Anforderungsanalyse und das PAP des Informatikprojektes anschauen, um sie zu korrigieren, wenn es Fehler gibt.
+     Heute möchte ich eine allgemeine Wiederholung der Module M431 und M319 machen, weil ich es letztes mal nicht schaffen könnte.
+- [x] (M319)
+- [ ] (M431)
+- [ ] Heute möchte ich mit der Programmierung meines Programmes weiterfahren.
+
+## Reflexion
+
+
 
   ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
