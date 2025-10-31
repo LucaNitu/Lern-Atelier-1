@@ -53,8 +53,9 @@ nicht fertigstellen. Ich habe es trotzdem geschafft, den grössten Teil des Code
 - [ ] Heute möchte ich mit der Programmierung meines Programmes weiterfahren.
 
 ## Reflexion
-
-
+Heute habe ich mich die Projektplanung, Anforderungsanalyse und PAP angeschaut und sie sahen zu mir korrekt aus, ich werde dann auch zu Hause noch einmal
+kontrollieren um sicher zu sein. Dann habe ich das Modul 319 durchgelesen, aber ich fühle mich, dass ich vielleicht der Teil der Arrays und der Teil der Funktionen
+repetieren sollte.
 
   ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
