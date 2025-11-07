@@ -1,7 +1,7 @@
 # Lern-Periode 2
 Name: Luca Nitu
 
-12.09.2024 bis 29.11.2024
+12.09.2025 bis 29.11.2025
 
 ## Grob-Planung
 ### Noten
@@ -16,10 +16,10 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Jetzt möchte ich endlich damit beginnen, ein eigenes Programm zu erstellen, aber zuerst will ich mich auf den Schulstoff konzentrieren um gute Noten zu bekommen.
-## 16.08.2024
+## 16.08.2025
 Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und so habe ich sie gelöst, das muss ich mir merken, so wäre ich besser vorgegangen, ... (50-100 Wörter)
 
-## Planung 23.09.2024
+## Planung 23.09.2025
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Heute möchte ich an der Datei LA_431_1715_Checkliste_anwenden arbeiten.
@@ -34,7 +34,7 @@ Die anderen beiden Ziele, die Arbeit an den Dateien in Mission 9 des Moduls M319
 werde ich beim nächsten Mal fortsetzen.
 
 
-## Planung 24.10.2024
+## Planung 24.10.2025
 - [x] Heute möchte ich die Updates am PC durchführen und prüfen, ob alle Schulsoftware auf dem neuesten Stand ist, insbesondere die System-Updates und die von SEB.
 - [x] Heute möchte ich ein Programm erstellen, basierend auf dem, was ich gelernt habe, aber auch mit neuen Funktionen und Anweisungen.
     Ich erwarte nicht, es heute fertigzustellen, aber ich denke, ich werde gute Fortschritte machen.
@@ -45,7 +45,7 @@ Heute finde ich, dass ich viel besser, als die anderen Male, gearbeitet habe. Ic
 dass es einige Minuten gedauert hat, um sie herunterzuladen und zu installieren. Dann habe ich auch das Programm erstellt, aber, wie erwartet, konnte ich es noch
 nicht fertigstellen. Ich habe es trotzdem geschafft, den grössten Teil des Codes zu schreiben.
 
-## Planung 31.10.2024
+## Planung 31.10.2025
 - [x] Heute möchte ich mich die Projektplanung, Anforderungsanalyse und das PAP des Informatikprojektes anschauen, um sie zu korrigieren, wenn es Fehler gibt.
      Heute möchte ich eine allgemeine Wiederholung der Module M431 und M319 machen, weil ich es letztes mal nicht schaffen könnte.
 - [x] (M319)
@@ -57,5 +57,11 @@ Heute habe ich mich die Projektplanung, Anforderungsanalyse und PAP angeschaut u
 kontrollieren um sicher zu sein. Dann habe ich das Modul 319 durchgelesen, aber ich fühle mich, dass ich vielleicht der Teil der Arrays und der Teil der Funktionen
 repetieren sollte.
 
+## Planung 07.11.2025
+- [x] Heute möchte ich der  Teil der Arrays und der Teil der Funktionen repetieren
+- [x] Heute möchte ich meine Wiederholung des Moduls M431 beenden
+- [ ] Heute möchte ich mich informiren und dann anfangen den Code für das IMS-Projekt zu schreiben
+
+# Reflexion
   ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
