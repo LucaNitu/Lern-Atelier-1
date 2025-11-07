@@ -58,8 +58,8 @@ kontrollieren um sicher zu sein. Dann habe ich das Modul 319 durchgelesen, aber 
 repetieren sollte.
 
 ## Planung 07.11.2025
-- [x] Heute möchte ich der  Teil der Arrays und der Teil der Funktionen repetieren
 - [x] Heute möchte ich meine Wiederholung des Moduls M431 beenden
+- [x] Heute möchte ich mit am Modul M162 arbeiten
 - [ ] Heute möchte ich mich informiren und dann anfangen den Code für das IMS-Projekt zu schreiben
 
 # Reflexion
