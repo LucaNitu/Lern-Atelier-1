@@ -59,9 +59,28 @@ repetieren sollte.
 
 ## Planung 07.11.2025
 - [x] Heute möchte ich meine Wiederholung des Moduls M431 beenden
-- [x] Heute möchte ich mit am Modul M162 arbeiten
+- [x] Heute möchte ich am Modul M162 arbeiten
 - [ ] Heute möchte ich mich informiren und dann anfangen den Code für das IMS-Projekt zu schreiben
 
-# Reflexion
+## Reflexion
+Heute habe ich es geschafft, meine Generalwiederholung des Moduls M431 abzuschließen, am Modul M162 zu arbeiten und mit dem Programm Schritt zu halten.
+Allerdings habe ich noch nicht angefangen, den Code für mein Projekt zu programmieren, aber ich habe die Logik des PAPs überprüft, kleine Strukturfehler korrigiert
+und mir eine mögliche Vorgehensweise zum Starten überlegt.
+
+## Planung 14.11.2025
+Heute möchte ich mich informiren und dann anfangen den Code für das IMS-Projekt zu schreiben(, da ich es letztes Mal nicht geschafft habe).
+Zuerst werde ich mich den PAP anschauen, um mich zu erinnern, was ich zu tun habe.
+
+- [x] Zuerst muss ich eine gute Webseite recherchieren, die mir die Daten der Wertpapiere liefert
+- [x] Ich muss überlegen, wie man die GUI und die interaktiven Elemente gestaltet.
+- [ ] Ich muss überlegen, wie das Programm die Daten von der Webseite abrufen und die Renditen berechnen kann.
+
+## Reflexion
+Heute denke ich, dass ich einen guten Punkt erreicht habe. Ich habe viele Möglichkeiten gefunden, eine davon war „AlphaVantage“, aber nach weiteren Recherchen
+stellte sich heraus, dass es problematisch ist, also habe ich beschlossen, „Yahoo Finance“ zu verwenden, weil es einfach zu bedienen ist, ohne große Probleme und
+anfängerfreundlich. Der Teil des GUI-Codes war nicht allzu kompliziert, und ich konnte ihn relativ schnell fertigstellen. Dagegen war der Teil, in dem die Daten
+von der Webseite abgerufen werden sollen, sehr kompliziert, weil ständig Fehlermeldungen auftraten, und ich kann immer noch nicht verstehen, wie ich sie beheben
+soll.
+
   ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
