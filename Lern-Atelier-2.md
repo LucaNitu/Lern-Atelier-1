@@ -82,5 +82,17 @@ anfängerfreundlich. Der Teil des GUI-Codes war nicht allzu kompliziert, und ich
 von der Webseite abgerufen werden sollen, sehr kompliziert, weil ständig Fehlermeldungen auftraten, und ich kann immer noch nicht verstehen, wie ich sie beheben
 soll.
 
-  ## Lernperiode Reflexion
+## Planung 21.11.2025
+Heute möchte ich noch am Code des Projektes arbeiten, weil ich ihn fast fertiggestellt habe, aber ich habe entdeckt, dass ich einen Fehler gemacht habe und dass
+AlphaVantage besser als Yahoo Finance ist, also muss ich den Code aktualisieren. Außerdem habe ich herausgefunden, dass ich den GUI-Teil noch nicht machen sollte,
+sondern erst später, also muss ich auch diesen Teil aktualisieren.
+-  [x] Wertpapiere Website anpassen
+-  [x] GUI anpassen
+-  [x] Code bereinigen
+
+## Reflexion
+Heute ist es mir gelungen, alle Arbeitspakete abzuschließen, und darüber freue ich mich sehr. Ich habe endlich verstanden, wie man das Programm so gestaltet, dass
+es Daten aus dem Internet abruft, ich konnte auch den Code bereinigt und eine GUI für das Programm erstellt.
+
+## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
