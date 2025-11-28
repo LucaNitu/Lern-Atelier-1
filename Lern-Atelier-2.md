@@ -86,13 +86,21 @@ soll.
 Heute möchte ich noch am Code des Projektes arbeiten, weil ich ihn fast fertiggestellt habe, aber ich habe entdeckt, dass ich einen Fehler gemacht habe und dass
 AlphaVantage besser als Yahoo Finance ist, also muss ich den Code aktualisieren. Außerdem habe ich herausgefunden, dass ich den GUI-Teil noch nicht machen sollte,
 sondern erst später, also muss ich auch diesen Teil aktualisieren.
--  [x] Wertpapiere Website anpassen
--  [x] GUI anpassen
--  [x] Code bereinigen
+- [x] Wertpapiere Website anpassen
+- [x] GUI anpassen
+- [x] Code bereinigen
 
 ## Reflexion
 Heute ist es mir gelungen, alle Arbeitspakete abzuschließen, und darüber freue ich mich sehr. Ich habe endlich verstanden, wie man das Programm so gestaltet, dass
 es Daten aus dem Internet abruft, ich konnte auch den Code bereinigt und eine GUI für das Programm erstellt.
+
+## Planung 28.11.2025
+- [x] Powerpoint für das Projekt erstellen
+- [x] Vortrag für die Präsentation vorbereiten
+- [x] Am Modul 162 Weiterarbeiten
+
+## Reflexion
+Heute habe ich das Powerpoint fürs Projekt erstellt und der zugehörige Vortrag. Ich hatte auch Zeit um am Modul 162 zu arbeiten.
 
 ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
