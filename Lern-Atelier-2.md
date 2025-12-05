@@ -102,5 +102,16 @@ es Daten aus dem Internet abruft, ich konnte auch den Code bereinigt und eine GU
 ## Reflexion
 Heute habe ich das Powerpoint fürs Projekt erstellt und der zugehörige Vortrag. Ich hatte auch Zeit um am Modul 162 zu arbeiten.
 
+## Planung 05.12.2025
+Heute möchte ich mich für die kommende Prüfung des M162-Moduls vorbereiten.
+- [x] Endlich verstehen was die Bereinigung ist, wie es funktioniert und wie man sie anwendet.
+- [x] Die Datei "1735_Diagramme" bearbeiten.
+- [x] Repetieren was ich bis jetzt in diesem Modul gemacht habe.
+- [x] Die OBA des M162-Moduls machen.
+
+## Reflexion
+Heute könnte ich alle meine Arbeitspakete abschliessen, und freue mich sehr darüber, weil ich mich jetzt realistische Ziele geben und erreichen kann und
+das Problem der Zeit passiert nicht mehr so oft.
+
 ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
