@@ -17,14 +17,16 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Jetzt möchte ich endlich damit beginnen, ein eigenes Programm zu erstellen, aber zuerst will ich mich auf den Schulstoff konzentrieren um gute Noten zu bekommen.
 ## 16.08.2025
-Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und so habe ich sie gelöst, das muss ich mir merken, so wäre ich besser vorgegangen, ... (50-100 Wörter)
+Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und so habe ich sie gelöst, das muss ich mir merken, so wäre ich besser vorgegangen,
+... (50-100 Wörter)
 
 ## Planung 23.09.2025
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Heute möchte ich an der Datei LA_431_1715_Checkliste_anwenden arbeiten.
 - [ ] Ich möchte die Arbeit an den Dateien in Mission 9 des Moduls M319 abschließen.
-- [ ] Ich möchte weiter an meinem Programm arbeiten, in dem ich jede gelernte Funktion mindestens einmal benutze, mit Erklärungen zu jeder Funktion und jedem Befehl mittels //.
+- [ ] Ich möchte weiter an meinem Programm arbeiten, in dem ich jede gelernte Funktion mindestens einmal benutze, mit Erklärungen zu jeder Funktion und jedem
+- [ ] Befehl mittels //.
 
 (Heute habe ich... (50-100 Wörter))
 ## Reflexion
@@ -35,9 +37,10 @@ werde ich beim nächsten Mal fortsetzen.
 
 
 ## Planung 24.10.2025
-- [x] Heute möchte ich die Updates am PC durchführen und prüfen, ob alle Schulsoftware auf dem neuesten Stand ist, insbesondere die System-Updates und die von SEB.
+- [x] Heute möchte ich die Updates am PC durchführen und prüfen, ob alle Schulsoftware auf dem neuesten Stand ist, insbesondere die System-Updates und die von
+SEB.
 - [x] Heute möchte ich ein Programm erstellen, basierend auf dem, was ich gelernt habe, aber auch mit neuen Funktionen und Anweisungen.
-    Ich erwarte nicht, es heute fertigzustellen, aber ich denke, ich werde gute Fortschritte machen.
+Ich erwarte nicht, es heute fertigzustellen, aber ich denke, ich werde gute Fortschritte machen.
 - [ ] Heute möchte ich eine allgemeine Wiederholung der Module M431 und M319 machen.
 
 ## Reflexion
@@ -54,7 +57,8 @@ nicht fertigstellen. Ich habe es trotzdem geschafft, den grössten Teil des Code
 
 ## Reflexion
 Heute habe ich mich die Projektplanung, Anforderungsanalyse und PAP angeschaut und sie sahen zu mir korrekt aus, ich werde dann auch zu Hause noch einmal
-kontrollieren um sicher zu sein. Dann habe ich das Modul 319 durchgelesen, aber ich fühle mich, dass ich vielleicht der Teil der Arrays und der Teil der Funktionen
+kontrollieren um sicher zu sein. Dann habe ich das Modul 319 durchgelesen, aber ich fühle mich, dass ich vielleicht der Teil der Arrays und der Teil der
+Funktionen
 repetieren sollte.
 
 ## Planung 07.11.2025
@@ -64,7 +68,8 @@ repetieren sollte.
 
 ## Reflexion
 Heute habe ich es geschafft, meine Generalwiederholung des Moduls M431 abzuschließen, am Modul M162 zu arbeiten und mit dem Programm Schritt zu halten.
-Allerdings habe ich noch nicht angefangen, den Code für mein Projekt zu programmieren, aber ich habe die Logik des PAPs überprüft, kleine Strukturfehler korrigiert
+Allerdings habe ich noch nicht angefangen, den Code für mein Projekt zu programmieren, aber ich habe die Logik des PAPs überprüft, kleine Strukturfehler
+korrigiert
 und mir eine mögliche Vorgehensweise zum Starten überlegt.
 
 ## Planung 14.11.2025
@@ -112,6 +117,15 @@ Heute möchte ich mich für die kommende Prüfung des M162-Moduls vorbereiten.
 ## Reflexion
 Heute könnte ich alle meine Arbeitspakete abschliessen, und freue mich sehr darüber, weil ich mich jetzt realistische Ziele geben und erreichen kann und
 das Problem der Zeit passiert nicht mehr so oft.
+
+## 12.12.2025
+- [x] Heute möchte ich mich die PowerPoint Präsentationen des M117 Moduls anschauen und die übungen dazu machen.
+- [x] Heute möchte ich mit dem Stoff dieses Moduls weiterfahren.
+- [x] Wenn ich mich sicher fühle, werde ich auch die Nachweise dafür machen.
+
+## Reflexion
+Ich habe heute die Präsentationen und Übungen des Moduls M117 bearbeitet, bin gut im Stoff vorangekommen und konnte danach auch mit den Nachweisen beginnen.
+Insgesamt habe ich meine Ziele erreicht.
 
 ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
