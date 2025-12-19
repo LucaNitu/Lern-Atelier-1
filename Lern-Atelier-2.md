@@ -118,7 +118,7 @@ Heute möchte ich mich für die kommende Prüfung des M162-Moduls vorbereiten.
 Heute könnte ich alle meine Arbeitspakete abschliessen, und freue mich sehr darüber, weil ich mich jetzt realistische Ziele geben und erreichen kann und
 das Problem der Zeit passiert nicht mehr so oft.
 
-## 12.12.2025
+## Planung 12.12.2025
 - [x] Heute möchte ich mich die PowerPoint Präsentationen des M117 Moduls anschauen und die übungen dazu machen.
 - [x] Heute möchte ich mit dem Stoff dieses Moduls weiterfahren.
 - [x] Wenn ich mich sicher fühle, werde ich auch die Nachweise dafür machen.
@@ -126,6 +126,15 @@ das Problem der Zeit passiert nicht mehr so oft.
 ## Reflexion
 Ich habe heute die Präsentationen und Übungen des Moduls M117 bearbeitet, bin gut im Stoff vorangekommen und konnte danach auch mit den Nachweisen beginnen.
 Insgesamt habe ich meine Ziele erreicht.
+
+## Planung 19.12.2025
+- [ ] Heute möchte ich mit dem Material des Moduls M117 vorankommen, weil ich ein bisschen im Rückstand bin und wenn möglich, schon etwas für das nächste Mal
+      vorbereiten. 
+- [ ] Ich möchte das logische Datenmodell wiederholen, da es mir im Modul 164 sehr nützlich sein wird.
+- [ ] Ich möchte C# üben, da ich es schon lange nicht mehr benutzt habe.
+
+## Reflexion
+
 
 ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
