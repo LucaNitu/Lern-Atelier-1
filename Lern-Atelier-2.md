@@ -130,11 +130,12 @@ Insgesamt habe ich meine Ziele erreicht.
 ## Planung 19.12.2025
 - [ ] Heute möchte ich mit dem Material des Moduls M117 vorankommen, weil ich ein bisschen im Rückstand bin und wenn möglich, schon etwas für das nächste Mal
       vorbereiten. 
-- [ ] Ich möchte das logische Datenmodell wiederholen, da es mir im Modul 164 sehr nützlich sein wird.
-- [ ] Ich möchte C# üben, da ich es schon lange nicht mehr benutzt habe.
+- [x] Ich möchte das logische Datenmodell wiederholen, da es mir im Modul 164 sehr nützlich sein wird.
+- [x] Ich möchte C# üben, da ich es schon lange nicht mehr benutzt habe.
 
 ## Reflexion
-
+Heute habe ich das logische Datenmodell wiederholt, was mir für das Modul M164 sehr hilfreich sein wird. Außerdem habe ich C# geübt, um wieder sicherer im Umgang
+mit der Sprache zu werden. Leider konnte ich mit dem Modul M117 nicht wie geplant vorankommen.
 
 ## Lernperiode Reflexion
   (In dieser Lernperiode habe ich... (50-100 Wörter))
