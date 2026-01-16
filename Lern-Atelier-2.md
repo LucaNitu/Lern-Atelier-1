@@ -138,4 +138,9 @@ Heute habe ich das logische Datenmodell wiederholt, was mir für das Modul M164 
 mit der Sprache zu werden. Leider konnte ich mit dem Modul M117 nicht wie geplant vorankommen.
 
 ## Lernperiode Reflexion
-  (In dieser Lernperiode habe ich... (50-100 Wörter))
+In dieser Lernperiode habe ich gemerkt, dass sich meine Arbeitsweise deutlich verbessert hat. Am Anfang hatte ich noch Mühe mit der Zeitplanung und konnte nicht
+immer alle gesetzten Ziele erreichen. Durch die täglichen Reflexionen habe ich jedoch gelernt, realistischere Arbeitspakete zu planen und meine Prioritäten besser
+zu setzen. Besonders beim IMS-Projekt konnte ich viele neue Erfahrungen sammeln, vor allem in der Projektplanung und bei der Programmierung.
+Auch wenn technischeProbleme auftraten,
+habe ich versucht, diese systematisch zu analysieren und Lösungen zu finden. Insgesamt habe ich strukturierter, sorgfältiger und selbstständiger gearbeitet als in
+früheren Lernperioden.
