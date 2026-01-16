@@ -31,3 +31,10 @@ Jetzt möchte ich endlich damit beginnen, ein eigenes Programm zu erstellen, abe
 ## Reflexion
 Heute ist es mir gelungen, im Modul M117 wieder aufzuholen und auf den aktuellen Stand zu kommen.
 Außerdem habe ich alle Programme für das Modul M164 überprüft und korrekt eingerichtet. Dadurch konnte ich auch mit dem Modul M164 planmäßig fortfahren.
+
+## Planung 16.01.2026
+- [ ] Heute möchte ich sowohl das konzeptionelle und logische datenmodell, als auch die Normalisierung repetieren.
+- [ ] das logische Datenmodell fürs Projekt des M164 Moduls erstellen. 
+- [ ] am Modul M164 arbeiten, weil ich etwas in Rückstand geraten bin.
+
+## Reflexion
