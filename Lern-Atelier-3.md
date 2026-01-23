@@ -33,8 +33,20 @@ Heute ist es mir gelungen, im Modul M117 wieder aufzuholen und auf den aktuellen
 Außerdem habe ich alle Programme für das Modul M164 überprüft und korrekt eingerichtet. Dadurch konnte ich auch mit dem Modul M164 planmäßig fortfahren.
 
 ## Planung 16.01.2026
-- [ ] Heute möchte ich sowohl das konzeptionelle und logische datenmodell, als auch die Normalisierung repetieren.
-- [ ] das logische Datenmodell fürs Projekt des M164 Moduls erstellen. 
+- [x] Heute möchte ich sowohl das konzeptionelle und logische datenmodell, als auch die Normalisierung repetieren.
+- [x] das logische Datenmodell fürs Projekt des M164 Moduls erstellen. 
 - [ ] am Modul M164 arbeiten, weil ich etwas in Rückstand geraten bin.
+
+## Reflexion
+Heute konnte ich nur die erste 2 meiner Zielen erreichen, denn ich viel Zeit für die Repetition angewandt habe.
+Ich bin aber froh, dass ich jetzt richtig verstehe, wie man konz., log. datenmodelle und die Normalisierung macht.
+
+## 23.01.2026
+- [x] Heute möchte ich verstehen wie die "Copilot Taste" funktioniert.
+      (Ich habe gesehen, dass manche Computer eine "Copilot Taste" haben, die Copilot direkt öffnen und wundere mich,
+      ob ich so etwas aber für ChatGPT replizieren könnte, da ich es viel verwende und deshalb könnte ich auch viel Zeit sparen,
+      statt jedes Mal google zu öffen und manuell "ChatGPT" einzutippen).
+- [x] am Modul M164 arbeiten, da ich es letztes Mal nicht geschafft habe.
+- [ ] anfangen dieses Programm zu programmieren.
 
 ## Reflexion
