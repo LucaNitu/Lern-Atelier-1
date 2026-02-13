@@ -50,3 +50,14 @@ Ich bin aber froh, dass ich jetzt richtig verstehe, wie man konz., log. datenmod
 - [ ] anfangen dieses Programm zu programmieren.
 
 ## Reflexion
+Heute ist es mir relativ gut gelungen, weil ich verstanden habe, wie die „Copilot-Taste“ funktioniert. Andererseits habe ich herausgefunden, dass ich sie noch
+nicht selbst programmieren kann, da die „Copilot-Taste“ ein eigenständiges Windows-Feature ist. Ich habe keinen Zugriff auf den Code und kann daher auch kein
+Programm erstellen, um stattdessen ChatGPT zu öffnen, da mir sowohl die nötigen Daten als auch die dafür erforderlichen Kenntnisse fehlen. Trotzdem bin ich froh,
+weil mir noch Zeit geblieben ist, um weiter am Modul M164 zu arbeiten.
+
+## 13.02.2026
+- [x] Heute möchte ich am Modul M164 weiterarbeiten.
+- [x] das logische Datenmodell perfektionieren.
+- [x] erste Ideen entwickeln, wie ich die benötigten Informationen für die LB des Moduls M164 sammeln und die Datenbank dafür aufbauen kann.
+
+## Reflexion
