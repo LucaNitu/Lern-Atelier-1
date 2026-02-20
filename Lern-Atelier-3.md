@@ -5,7 +5,8 @@ Name: Luca Nitu
 
 ## Grob-Planung
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders
+wichtig?
 Endlich habe ich meine erste Noten erhalten und bin damit auch zufrieden.
 M319 4
 M431 5
@@ -21,7 +22,8 @@ Docker Desktop, SQL, meine C# Kenntnisse erweitern
 
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Jetzt möchte ich endlich damit beginnen, ein eigenes Programm zu erstellen, aber zuerst will ich mich auf den Schulstoff konzentrieren um gute Noten zu bekommen.
+Jetzt möchte ich endlich damit beginnen, ein eigenes Programm zu erstellen, aber zuerst will ich mich auf den Schulstoff konzentrieren um
+gute Noten zu bekommen.
 
 ## Planung 09.01.2026
 - [x] Heute möchte ich mit dem Material des Moduls M117 vorankommen, weil ich ein bisschen im Rückstand bin.
@@ -30,7 +32,8 @@ Jetzt möchte ich endlich damit beginnen, ein eigenes Programm zu erstellen, abe
 
 ## Reflexion
 Heute ist es mir gelungen, im Modul M117 wieder aufzuholen und auf den aktuellen Stand zu kommen.
-Außerdem habe ich alle Programme für das Modul M164 überprüft und korrekt eingerichtet. Dadurch konnte ich auch mit dem Modul M164 planmäßig fortfahren.
+Außerdem habe ich alle Programme für das Modul M164 überprüft und korrekt eingerichtet. Dadurch konnte ich auch mit dem Modul M164
+planmäßig fortfahren.
 
 ## Planung 16.01.2026
 - [x] Heute möchte ich sowohl das konzeptionelle und logische datenmodell, als auch die Normalisierung repetieren.
@@ -50,14 +53,27 @@ Ich bin aber froh, dass ich jetzt richtig verstehe, wie man konz., log. datenmod
 - [ ] anfangen dieses Programm zu programmieren.
 
 ## Reflexion
-Heute ist es mir relativ gut gelungen, weil ich verstanden habe, wie die „Copilot-Taste“ funktioniert. Andererseits habe ich herausgefunden, dass ich sie noch
-nicht selbst programmieren kann, da die „Copilot-Taste“ ein eigenständiges Windows-Feature ist. Ich habe keinen Zugriff auf den Code und kann daher auch kein
-Programm erstellen, um stattdessen ChatGPT zu öffnen, da mir sowohl die nötigen Daten als auch die dafür erforderlichen Kenntnisse fehlen. Trotzdem bin ich froh,
+Heute ist es mir relativ gut gelungen, weil ich verstanden habe, wie die „Copilot-Taste“ funktioniert. Andererseits habe ich
+herausgefunden, dass ich sie noch
+nicht selbst programmieren kann, da die „Copilot-Taste“ ein eigenständiges Windows-Feature ist. Ich habe keinen Zugriff auf den Code und
+kann daher auch kein
+Programm erstellen, um stattdessen ChatGPT zu öffnen, da mir sowohl die nötigen Daten als auch die dafür erforderlichen Kenntnisse fehlen.
+Trotzdem bin ich froh,
 weil mir noch Zeit geblieben ist, um weiter am Modul M164 zu arbeiten.
 
 ## 13.02.2026
 - [x] Heute möchte ich am Modul M164 weiterarbeiten.
 - [x] das logische Datenmodell perfektionieren.
 - [x] erste Ideen entwickeln, wie ich die benötigten Informationen für die LB des Moduls M164 sammeln und die Datenbank dafür aufbauen kann.
+
+## Reflexion
+Heute habe ich mehr für das Projekt des M164 Moduls gelernt, mein Datenmodell korrigiert, weil ich ein paar Fehler gemacht habe, noch habe
+ich auch für die Daten recherchiert. Heute war es insgesamt gut, weil ich Zeit für alles hatte, ich konnte auch das Query für die Datenbank
+beginnen.
+
+## 20.02.2026
+- [x] Heute möchte ich mit meiner Gruppe am Netzwerklabor weiterarbeiten.
+- [x] weiter an meiner Datenbank fürs Prokekt des M164 Moduls arbeiten.
+- [ ] am Modul M117 weiterarbeiten.
 
 ## Reflexion
