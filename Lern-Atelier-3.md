@@ -77,3 +77,12 @@ beginnen.
 - [ ] am Modul M117 weiterarbeiten.
 
 ## Reflexion
+
+
+## 27.02.2026
+- [ ] Heute möchte ich anfangen Java zu lernen.
+- [ ] ein passendes dazu herunterladen.
+- [ ] eine gesamte PC Kontrolle machen. (Updates usw.)
+
+
+## Reflexion
