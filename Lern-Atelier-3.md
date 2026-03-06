@@ -77,12 +77,20 @@ beginnen.
 - [ ] am Modul M117 weiterarbeiten.
 
 ## Reflexion
-
+Heute war die Zeitplanung etwas unvorhersehbar, da ich nicht wissen konnte, wie lange das Netzwerklabor dauern würde. Zum Glück sind wir trotzdem zu einem guten Punkt
+gekommen, auch wenn wir es nicht ganz fertigstellen konnten, da wir noch einige Fragen hatten.
+Ansonsten habe ich bis zum Ende an meiner Datenbank gearbeitet und bin dort ebenfalls gut vorangekommen, auch wenn ich keine Zeit mehr hatte, weiter am Modul M117 zu
+arbeiten.
 
 ## 27.02.2026
-- [ ] Heute möchte ich anfangen Java zu lernen.
-- [ ] ein passendes dazu herunterladen.
-- [ ] eine gesamte PC Kontrolle machen. (Updates usw.)
-
+- [x] Heute möchte ich anfangen Java zu lernen.
+- [x] ein passendes Programm dazu herunterladen.
+- [x] eine gesamte PC Kontrolle machen. (Updates usw.)
 
 ## Reflexion
+Ich denke, dass die Zeitplanung für heute sehr gut war. Ich habe alles geschafft und hatte am Ende sogar noch ein paar Minuten übrig. Das Einzige, was nicht so gut war,
+ist, dass ich die Grundlagen nicht auf einmal richtig lernen konnte und noch mehr Übung mit der Syntax brauchen werde.
+
+## 06.03.2026
+
+-[ ] Heute möchte ich
