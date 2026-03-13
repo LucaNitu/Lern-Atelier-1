@@ -91,13 +91,20 @@ arbeiten.
 
 ## Reflexion
 Ich denke, dass die Zeitplanung für heute sehr gut war. Ich habe alles geschafft und hatte am Ende sogar noch ein paar Minuten übrig. Das Einzige, was nicht so
-gut war,
-ist, dass ich die Grundlagen nicht auf einmal richtig lernen konnte und noch mehr Übung mit der Syntax brauchen werde.
+gut war, ist, dass ich die Grundlagen nicht auf einmal richtig lernen konnte und noch mehr Übung mit der Syntax brauchen werde.
 
 ## 06.03.2026
 
 - [x] Heute möchte ich Java weiterlernen.
 - [x] C# und Java vergleichen (sehen was anders ist).
 - [x] am Modul M106 weiterarbeiten.
+
+## Reflexion
+
+
+## 13.03.2026
+- [ ] Heute möchte ich am Modul M187 weiterarbeiten (die Übung der Virtualisierung beenden).
+- [ ] am Modul M106 weiterarbeiten.
+- [ ] Java weiterlernen.
 
 ## Reflexion
