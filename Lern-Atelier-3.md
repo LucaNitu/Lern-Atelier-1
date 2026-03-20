@@ -111,8 +111,9 @@ Ich hatte Probleme bei der Virtualisierung und bei einige Aufträge des M106 Mod
 meine erste 2 Arbeitspakete beenden.
 
 ## 20.03.2026
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Heute möchte ich lernen, wie man gute PowerPoint Animationen macht.
+- [x] am Modul M106 arbeiten.
+- [x] Java weiterlernen.
 
 ## Reflexion
+Ich habe gelernt, wie man einige gute und coole PowerPoint Animationen macht, obwohl es mich ein bisschen zu lange gedauert hat, sie einzustellen..
