@@ -94,17 +94,25 @@ Ich denke, dass die Zeitplanung für heute sehr gut war. Ich habe alles geschaff
 gut war, ist, dass ich die Grundlagen nicht auf einmal richtig lernen konnte und noch mehr Übung mit der Syntax brauchen werde.
 
 ## 06.03.2026
-
 - [x] Heute möchte ich Java weiterlernen.
 - [x] C# und Java vergleichen (sehen was anders ist).
 - [x] am Modul M106 weiterarbeiten.
 
 ## Reflexion
-
+Ich konnte mit Java weitermachen und habe bemerkt, dass die Logik sehr ähnlich ist. Ausserdem warrsfodvibudaiwbfdojfvbdwqewvj fjd bisschen am Modul M106 arbeiten.
 
 ## 13.03.2026
-- [ ] Heute möchte ich am Modul M187 weiterarbeiten (die Übung der Virtualisierung beenden).
-- [ ] am Modul M106 weiterarbeiten.
+- [x] Heute möchte ich am Modul M187 weiterarbeiten (die Übung der Virtualisierung beenden).
+- [x] am Modul M106 weiterarbeiten.
 - [ ] Java weiterlernen.
+
+## Reflexion
+Ich hatte Probleme bei der Virtualisierung und bei einige Aufträge des M106 Moduls, deshalb gab es nicht so viel Zeit für Java, trotzdem konnte ich
+meine erste 2 Arbeitspakete beenden.
+
+## 20.03.2026
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## Reflexion
