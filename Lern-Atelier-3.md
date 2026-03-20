@@ -99,7 +99,7 @@ gut war, ist, dass ich die Grundlagen nicht auf einmal richtig lernen konnte und
 - [x] am Modul M106 weiterarbeiten.
 
 ## Reflexion
-Ich konnte mit Java weitermachen und habe bemerkt, dass die Logik sehr ähnlich ist. Ausserdem warrsfodvibudaiwbfdojfvbdwqewvj fjd bisschen am Modul M106 arbeiten.
+Ich konnte mit Java weitermachen und habe bemerkt, dass die Logik sehr ähnlich ist. Ausserdem hatte ich ein bisschen, um am Modul M106 zu arbeiten.
 
 ## 13.03.2026
 - [x] Heute möchte ich am Modul M187 weiterarbeiten (die Übung der Virtualisierung beenden).
