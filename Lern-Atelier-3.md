@@ -116,4 +116,11 @@ meine erste 2 Arbeitspakete beenden.
 - [x] Java weiterlernen.
 
 ## Reflexion
-Ich habe gelernt, wie man einige gute und coole PowerPoint Animationen macht, obwohl es mich ein bisschen zu lange gedauert hat, sie einzustellen..
+Ich habe gelernt, wie man einige gute und coole PowerPoint Animationen macht, obwohl es mich ein bisschen zu lange gedauert hat, sie einzustellen.
+
+## 27.03.2026
+- [ ] Heute möchte ich die Animationen, die ich gelernt habe, konkret für meine Präsentation einsetzen.
+- [ ] am Modul M106 arbeiten.
+- [ ] am Modul M187 arbeiten.
+
+## Reflexion
