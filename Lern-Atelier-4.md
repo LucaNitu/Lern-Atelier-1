@@ -18,3 +18,11 @@ Meine C# und Java Kenntnisse erweitern, andere Programmiersprachen lernen
 
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+
+## Planung 08.05.2026
+Heute möchte ich
+- [ ] am Modul 106 arbeiten
+- [ ] am Modul 122 arbeiten
+- [ ] eine wiederholung von C# und Java machen
+
+## Reflexion
