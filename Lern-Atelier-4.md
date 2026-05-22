@@ -26,3 +26,4 @@ Heute möchte ich
 - [ ] eine wiederholung von C# und Java machen
 
 ## Reflexion
+Die Modularbeit hat mir zu lange gedauert, deshalb konnte ich meine Wiederholung nicht machen.
