@@ -27,3 +27,13 @@ Heute möchte ich
 
 ## Reflexion
 Die Modularbeit hat mir zu lange gedauert, deshalb konnte ich meine Wiederholung nicht machen.
+
+# Planung 22.05.2026
+Heute möchte ich
+- [x] am Modul 122 arbeiten
+- [x] am Modul 293 arbeiten
+- [x] eine wiederholung von C# und Java machen
+
+# Reflexion
+Heute konnte ich meine Zeit besser planen, deshalb konnte ich meine Wiederholung von C# machen, der Teil von Java konnte ich nicht beenden, aber ich finde
+ich habe trotzdem gut gearbeitet.
