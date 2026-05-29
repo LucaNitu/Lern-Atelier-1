@@ -37,3 +37,14 @@ Heute möchte ich
 # Reflexion
 Heute konnte ich meine Zeit besser planen, deshalb konnte ich meine Wiederholung von C# machen, der Teil von Java konnte ich nicht beenden, aber ich finde
 ich habe trotzdem gut gearbeitet.
+
+# Planung 29.05.2026
+Heute möchte ich
+- [x] am Modul 122 arbeiten
+- [x] mich schon überlegen, wie den Code meines Projektes aussehen wird
+- [x] ein paar Powershell Programme erstellen, die zur Effizienz dienen
+  
+# Reflexion
+Heute konnte ich alle meine Arbeitspakete erledigen, ich hatte genug Zeit für die Modularbeit, um einen PAP fürs Projekt zu erstellen und schon
+ein paar Befehle zu lernen. Ausserdem habe ich 2 Powershell Skripts programmiert und mit der Aufgabenplanung integriert. Damit konnte ich auch lernen,
+wie man die Aufgabenplanung richtig einstellt.
