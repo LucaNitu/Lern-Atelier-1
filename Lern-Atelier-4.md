@@ -48,3 +48,21 @@ Heute möchte ich
 Heute konnte ich alle meine Arbeitspakete erledigen, ich hatte genug Zeit für die Modularbeit, um einen PAP fürs Projekt zu erstellen und schon
 ein paar Befehle zu lernen. Ausserdem habe ich 2 Powershell Skripts programmiert und mit der Aufgabenplanung integriert. Damit konnte ich auch lernen,
 wie man die Aufgabenplanung richtig einstellt.
+
+# Planung 05.06.2026
+Heute möchte ich
+- [x] einen PAP für mein Powershell-Projekt erstellen
+- [x] am Modul 293 arbeiten
+- [x] mich etwas für mein HTML Projekt überlegen (ich brauche Inspiration)
+
+# Reflexion
+Ich finde, ich habe heute gut gearbeitet, obwohl der PAP noch nicht perfekt ist.
+
+# Planung 12.06.2026
+Heute möchte ich
+- [ ] am Powershell-Projekt arbeiten
+- [ ] am HTML-Projekt arbeiten
+- [ ] mein Windows updaten
+
+# Reflexion
+
