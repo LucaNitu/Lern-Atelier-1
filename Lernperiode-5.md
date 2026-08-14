@@ -22,6 +22,12 @@
 
 ### Planung 16.08.2024
 3 bis 5 klar messbare Arbeitspakete.
+- [x] Alles wieder für die nächste Lektionen einrichten
+- [x] Eine Recherche machen, um mich darüber zu informieren, ob es Spiele gibt, die denen ähneln, die ich spiele,
+      deren Quellcode Open Source ist, damit ich sehen kann, wie die Dinge tatsächlich funktionieren, und daraus lernen kann, wie sie aufgebaut sind.
+- [x] An den Modulen arbeiten
+
+### Reflexion
 (Heute habe ich... (50-100 Wörter))
 
 
