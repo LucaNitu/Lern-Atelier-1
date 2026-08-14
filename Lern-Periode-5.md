@@ -1,7 +1,7 @@
 Lern-Periode 5
 Name: Luca Nitu
 
-14.08.2026 bis ..2026
+14.08.2026 bis 08.09.2026
 
 Grob-Planung
 Noten
