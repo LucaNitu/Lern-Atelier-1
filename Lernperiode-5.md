@@ -13,10 +13,12 @@ Das Powershell-Modul hat mir besonders gefallen.
 
 ### Veränderungen
 - Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+
 Ich möchte an einem eigenen Projekt arbeiten.
 
 ### Projekte / neue Technologien
 - Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+
 Ich habe endlich eine echte Idee für ein Projekt, das ich wirklich entwickeln wird.
 Die Idee ist grundsätzlich: Duolingo programmieren, aber für Känte statt für eine Sprache. (Industria)
 
