@@ -7,6 +7,7 @@
 
 ### Noten
 - Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+
 Ich war bis jetzt in keinem Module ungenügend und freue mich darüber.
 Das Powershell-Modul hat mir besonders gefallen.
 
