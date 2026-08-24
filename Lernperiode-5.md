@@ -6,21 +6,21 @@
 ## Grob-Planung
 
 ### Noten
-> Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? <
+- Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Ich war bis jetzt in keinem Module ungenügend und freue mich darüber.
 Das Powershell-Modul hat mir besonders gefallen.
 
 ### Veränderungen
-> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+- Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 Ich möchte an einem eigenen Projekt arbeiten.
 
 ### Projekte / neue Technologien
-> Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+- Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 Ich habe endlich eine echte Idee für ein Projekt, das ich wirklich entwickeln wird.
 Die Idee ist grundsätzlich: Duolingo programmieren, aber für Känte statt für eine Sprache. (Industria)
 
 ### Generelle Ziele
-> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+- Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 ## Tagesplanungen
 
