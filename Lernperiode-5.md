@@ -25,6 +25,10 @@ Die Idee ist grundsätzlich: Duolingo programmieren, aber für Känte statt für
 ### Generelle Ziele
 - Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
+- Bestimmen die Technologien, die ich für mein Projekt brauchen wird.
+- Meine bisherige Kenntnisse anwenden (C#, SQL und HTML+CSS).
+- Java lernen, falls es für das Projekt notwendig ist.
+
 ## Tagesplanungen
 
 ### Planung 16.08.2024
@@ -35,13 +39,15 @@ Die Idee ist grundsätzlich: Duolingo programmieren, aber für Känte statt für
 - [x] An den Modulen arbeiten
 
 ### Reflexion
-(Heute habe ich... (50-100 Wörter))
 Heute habe ich konzentriert an den Modulen gearbeitet und werde dann die Spiele genauer anschauen.
 
 ### Planung 23.08.2024
 Heute möchte ich
 - [x] An den Modulen arbeiten
 - [x] Anfangen, den Code eines Spiels anzuschauen
+
+### Reflexion
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
