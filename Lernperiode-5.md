@@ -31,7 +31,7 @@ Die Idee ist grundsätzlich: Duolingo programmieren, aber für Känte statt für
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
+### Planung 16.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 - [x] Alles wieder für die nächste Lektionen einrichten
 - [x] Eine Recherche machen, um mich darüber zu informieren, ob es Spiele gibt, die denen ähneln, die ich spiele,
@@ -41,13 +41,17 @@ Die Idee ist grundsätzlich: Duolingo programmieren, aber für Känte statt für
 ### Reflexion
 Heute habe ich konzentriert an den Modulen gearbeitet und werde dann die Spiele genauer anschauen.
 
-### Planung 23.08.2024
+### Planung 23.08.2026
 Heute möchte ich
 - [x] An den Modulen arbeiten
 - [x] Anfangen, den Code eines Spiels anzuschauen
 
 ### Reflexion
+Da der Code Open Source ist, war es ziemlich einfach, ihn zu öffnen und zu verstehen, wie er funktioniert. Bis jetzt habe ich mir aber nur angeschaut, wie die Autos gemacht sind. Trotzdem bin ich bisher zufrieden mit dem, was ich verstanden habe.
 
+### Planung 28.08.2026
+Heute möchte ich
+- [ ] An den Modulen arbeiten
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
