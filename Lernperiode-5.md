@@ -6,7 +6,8 @@
 ## Grob-Planung
 
 ### Noten
-- Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+- Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders
+  wichtig?
 
 Ich war bis jetzt in keinem Module ungenügend und freue mich darüber.
 Das Powershell-Modul hat mir besonders gefallen.
@@ -51,7 +52,37 @@ Da der Code Open Source ist, war es ziemlich einfach, ihn zu öffnen und zu vers
 
 ### Planung 28.08.2026
 Heute möchte ich
-- [ ] An den Modulen arbeiten
+- [x] An den Modulen arbeiten
+
+### Reflexion
+Ich finde, ich habe heute gut und konzentriert gearbeitet, obwohl ein bisschen langsam. Ich konnte trotz der Geschwindigkeit die Aufträge 
+BarrierefreiheitTesten und User Stories beenden(322), ich habe auch angefangen ein paar Kanten für mein Projekt zu sammeln.
+
+### Planung 04.09.2026
+Heute möchte ich
+- [x] An eine Logik für mein Projekt denken (Was wird meine App wirklich machen? Aus funktionaler Sicht)
+- [x] Einen PAP dazu erstellen
+
+### Reflexion
+Ich habe mich für diese Lösung entschieden: Der Nutzer wird ein beliebiges Kant wählen können und dann wird er sich entscheiden müssen,
+entweder ob man das Kant lernen möchte (ganzer Text zeigen), oder ob er seine Fähigkeiten testen möchte
+(lücken im Text ausfüllen (einzige Worte/ganze Sätze/ganze Strophen) oder der ganze Text dem Gedächtnis wiedergeben).
+
+### Planung 11.09.2026
+Heute möchte ich
+- [x] Der PAP perfektionieren (dieses Mal des Codes, nicht der Logik)
+- [ ] Eine Console-App für ein Kant machen (die anderen werde ich später hinzufügen) 
+
+### Reflexion
+Ich glaube der PAP ist im Momemnt gut genug und die Probe-App habe ich fast fertig gemacht.
+
+### Planung 18.09.2026
+Heute möchte ich
+- [ ] Eine Option hinzufügen, die der Nutzer ermöglicht Lateinische Begriffe auf Deutsch zu Übersetzen  
+- [ ] Die App fertig schreiben
+
+### Reflexion
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
