@@ -36,7 +36,8 @@ Die Idee ist grundsätzlich: Duolingo programmieren, aber für Känte statt für
 3 bis 5 klar messbare Arbeitspakete.
 - [x] Alles wieder für die nächste Lektionen einrichten
 - [x] Eine Recherche machen, um mich darüber zu informieren, ob es Spiele gibt, die denen ähneln, die ich spiele,
-      deren Quellcode Open Source ist, damit ich sehen kann, wie die Dinge tatsächlich funktionieren, und daraus lernen kann, wie sie aufgebaut sind.
+      deren Quellcode Open Source ist, damit ich sehen kann, wie die Dinge tatsächlich funktionieren, und daraus lernen kann, wie sie
+      aufgebaut sind.
 - [x] An den Modulen arbeiten
 
 ### Reflexion
@@ -48,7 +49,8 @@ Heute möchte ich
 - [x] Anfangen, den Code eines Spiels anzuschauen
 
 ### Reflexion
-Da der Code Open Source ist, war es ziemlich einfach, ihn zu öffnen und zu verstehen, wie er funktioniert. Bis jetzt habe ich mir aber nur angeschaut, wie die Autos gemacht sind. Trotzdem bin ich bisher zufrieden mit dem, was ich verstanden habe.
+Da der Code Open Source ist, war es ziemlich einfach, ihn zu öffnen und zu verstehen, wie er funktioniert. Bis jetzt habe ich mir aber nur
+angeschaut, wie die Autos gemacht sind. Trotzdem bin ich bisher zufrieden mit dem, was ich verstanden habe.
 
 ### Planung 28.08.2026
 Heute möchte ich
