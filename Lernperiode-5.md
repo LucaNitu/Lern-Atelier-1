@@ -84,7 +84,8 @@ Heute möchte ich
 - [ ] Die App fertig schreiben
 
 ### Reflexion
-
+Ich konnte die App noch nicht fertig schreiben, da es mir bei der Recherche etwas lange gedauert hat aber ich finde ich bin sowieso
+weit genug gekommen.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
