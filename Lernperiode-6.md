@@ -1,7 +1,7 @@
 # Lern-Periode 6
 
 - Name: Luca Nitu Matteo
-- Zeitraum: ..2026 bis ..2026
+- Zeitraum: 16.10.2026 bis ..2026
 
 ## Grob-Planung
 
@@ -14,7 +14,7 @@ Ich habe eine sehr gute Note im Modul 231 erhalten und habe vieles über Datensc
 ### Veränderungen
 - Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 
-Nichts tbh, vielleicht schneller arbeiten, wenn möglich
+Vielleicht schneller arbeiten, wenn möglich
 
 ### Projekte / neue Technologien
 - Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
