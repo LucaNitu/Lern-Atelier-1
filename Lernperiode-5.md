@@ -89,3 +89,5 @@ weit genug gekommen.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode konnte ich mich auf etwas persönlicheres konzentrieren, ein eigenes C# Projekt, obwohl ich immer noch weit vom Ende bin,
+sieht es trotzdem bis jetzt gut aus.
