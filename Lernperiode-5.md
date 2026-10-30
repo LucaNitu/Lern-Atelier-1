@@ -76,7 +76,7 @@ Heute möchte ich
 - [ ] Eine Console-App für ein Kant machen (die anderen werde ich später hinzufügen) 
 
 ### Reflexion
-Ich glaube der PAP ist im Momemnt gut genug und die Probe-App habe ich fast fertig gemacht.
+Ich glaube der PAP ist im Moment gut genug und die Probe-App habe ich fast fertig gemacht.
 
 ### Planung 18.09.2026
 Heute möchte ich
