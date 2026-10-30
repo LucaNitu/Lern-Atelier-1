@@ -1,7 +1,7 @@
 # Lern-Periode 6
 
 - Name: Luca Nitu Matteo
-- Zeitraum: 16.10.2026 bis ..2026
+- Zeitraum: 16.10.2026 bis 18.12.2026
 
 ## Grob-Planung
 
