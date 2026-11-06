@@ -29,3 +29,21 @@ Vielleicht schneller arbeiten, wenn möglich
 ## Tagesplanungen
 
 ## 16.10.2026
+Heute möchte ich
+- [x] LA_322_0402_PrototypenTesten bearbeiten
+- [x] LA_322_0301_HtmlCssPrototypErstellen bearbeiten
+      
+## Reflexion
+Ich habe heute die letzten Aufgaben des M322 Moduls bearbeitet und angefangen mich für die Prüfung vorzubereiten
+
+## 30.10.2026
+Heute möchte ich
+- [ ] mich darüber informieren, wie APIs funktionieren und wie ich sie einsetzen könnte
+- [ ] Tests mit den gelernten Kenntnissen durchführen
+
+## Reflexion
+
+
+## 06.11.2026
+
+## Reflexion
